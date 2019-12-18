@@ -1,1 +1,19 @@
 Linux maria 4.15.0-72-generic #81-Ubuntu SMP Tue Nov 26 12:20:02 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 4522  bytes 429405 (429.4 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4522  bytes 429405 (429.4 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlp2s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 156.17.149.101  netmask 255.255.254.0  broadcast 156.17.149.255
+        inet6 fe80::2f0f:cc85:784:2695  prefixlen 64  scopeid 0x20<link>
+        ether 30:52:cb:ea:03:c9  txqueuelen 1000  (Ethernet)
+        RX packets 29531  bytes 26806741 (26.8 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 22437  bytes 3300524 (3.3 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
